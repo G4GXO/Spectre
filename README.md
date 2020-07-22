@@ -1,5 +1,5 @@
 # Spectre
-Audio spectrum reversal module for SSB radio
+Audio Spectrum Reversal module for SSB radio
 
 Many commercial or military HF Single Sideband (SSB) transceivers operate in Upper Sideband (USB) only making them incompatible with Amateur Radio band plans for the lower 
 frequency bands where Lower Sideband (LSB) is the convention. Spectre provides a means through which USB or LSB only radios may be made comaptible with opposite sideband operation
