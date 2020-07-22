@@ -8,7 +8,7 @@ that an inverted audio channel may be transmitted or received. This has the effe
 Spectre sits between the radio and the microphone and headphone/speaker and provides enough audio output to drive either a hadnset/headset or a small loudspeaker. It monitors the 
 Push To Talk (PTT) line switching from transmit to receive along with the host transceiver.
 
-Spectre employs a dsPIC33FJ128GP802 processor. The code is written and compiled with MPLAB-X ASM and XC16 Compiler v1.50.
+Spectre employs a dsPIC33FJ128GP802 processor. The code is written and compiled with MPLAB-X ASM and XC16 Compiler v1.50. Spectre is the Copyright of RWM Taylor C.Eng MIET
 
 Ron Taylor G4GXO
 
